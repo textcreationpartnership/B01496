@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Aeternitati sacrum. Or a monument ...]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01496</idno>
+            <idno type="STC">Wing A747</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[37]</idno>
+            <idno type="EEBO-CITATION">99885179</idno>
+            <idno type="PROQUEST">ocm99885179</idno>
+            <idno type="VID">182522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182522)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Aeternitati sacrum. Or a monument ...]</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap, for H. Brome at the sign of the Gun in Ivy-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: badly stained, affecting title and text; title suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182522:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>AETERNITATI SACRUM.</head>
+            <head type="sub">
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> MON<g ref="char:V">Ʋ</g>MENT Er<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ated to the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mory of t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>GREAT MINISTER</hi> of State, and fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>MASTER</hi> of the <hi>ORDINANCE</hi> for b<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ing, Church <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>s <hi>BLEW DICK</hi> of <hi>Thanet.</hi>
+            </head>
+            <lg>
+               <l>He's dead and gone<g ref="char:punc">▪</g> Now wh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> or whither<g ref="char:punc">▪</g>
+               </l>
+               <l>Would <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny know, let them come hither.</l>
+               <l>'Tis he, whoſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for K<gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap> crew<g ref="char:punc">▪</g>
+               </l>
+               <l>Got him the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Who, like a <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Jugler took</l>
+               <l>Religion <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for a cloak<g ref="char:punc">▪</g>
+               </l>
+               <l>Who did the Serpents chaſe a<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>But would not <gap reason="illegible" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>
+               </l>
+               <l>Who dealt (<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ugh not with Whore<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Bawds)</l>
+               <l>Not <hi>Peter;s</hi> mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, in pious Franc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Who wore Sheeps-cloathing</l>
+               <l>But lodg'd a Ravening Wo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Who other, goods did oft invade<g ref="char:punc">▪</g>
+               </l>
+               <l>But never reſtitution made</l>
+               <l>Who, like a Presbyterian <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>Who <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gnats was won<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>But ſwallowed Camels without <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Who from a Ceremony <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd yet Rebellion followed.</l>
+               <l>Who Princes <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> decry'd<g ref="char:punc">▪</g>
+               </l>
+               <l>Yet <hi>Cromwels</hi> High-Court juſtifi'd.</l>
+               <l>Who, whil'ſt he Organs overthrew<g ref="char:punc">▪</g>
+               </l>
+               <l>The Trumpet of Sedition blew</l>
+               <l>Who Self-denial Preach'd; but then</l>
+               <l>The practice left for other men</l>
+               <l>Who hated Peace, but courted Strife<g ref="char:punc">▪</g>
+               </l>
+               <l>And would not s;wear, but lye for life</l>
+               <l>Who was againſt all Forms, unleſs</l>
+               <l>It were a Form of Godlineſs</l>
+               <l>Who did Idolatry detes;t,</l>
+               <l>But Sacriledge could well digeſt.</l>
+               <l>Who Saints from Windows tumbled, and</l>
+               <l>Yet let his Dad, the Devil ſtand.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 'cauſe Salt-waters beſt to ſcoure<g ref="char:punc">▪</g>
+               </l>
+               <l>To clean the Church, be-piſs'd the flo<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, that he might convert the Jew</l>
+               <l>The Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtians<g ref="char:punc">▪</g> Badge, the Croſs o'rthrew<g ref="char:punc">▪</g>
+               </l>
+               <l>Who therefore threw the Myte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat he might after caſt the Crown:</l>
+               <l>And ſuch Triumphant-Saints as he</l>
+               <l>Chant out their <hi>Hey then <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> go we.</hi>
+               </l>
+               <l>Who, like as all weak Brethren did,</l>
+               <l>Took (right or wrong) the ſtronges;t ſide</l>
+               <l>And was reſolv'd, what e'r was Trump;</l>
+               <l>To follow ſute, though 'twere the Rump<g ref="char:punc">▪</g>
+               </l>
+               <l>Whoſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worth or wit, no times would own,</l>
+               <l>Till Dunces had put Doctors down.</l>
+               <l>Who was betimes a Knave-in-grain,</l>
+               <l>And Elder-grown<g ref="char:punc">▪</g> might paſ for twain.</l>
+               <l>Who liv'd not loved, and when dead,</l>
+               <l>Was neither miſs'd, nor pitied.</l>
+            </lg>
+            <lg>
+               <l>But is he gone! Then wither, pray?</l>
+               <l>To Heaven or Hell? What ſhall we ſay?</l>
+               <l>If merit here take place, his face</l>
+               <l>Not more like <hi>Judas,</hi> then his caſe.</l>
+               <l>And if his Work and Wages ſure;</l>
+               <l>That Heaven's not his, is paſt diſpute.</l>
+               <l>Then Hell muſt be. But, Reader, ſtay,</l>
+               <l>Is he not gone another way?</l>
+               <l>He needed purging (ſure enough)</l>
+               <l>So full the wretch of vitions ſtuff:</l>
+               <l>We'll then for once admit the ſtory,</l>
+               <l>And think him gone to Purgatory.</l>
+               <l>Where let him ſtay, nor thence get free,</l>
+               <l>Till Heaven ſhall want ſuch Saints as he.</l>
+            </lg>
+            <lg>
+               <l>Mean time, how ſmiles the Earth! as pleas'd</l>
+               <l>Of ſuch a burthen to be eas'd.</l>
+               <l>Whil'ſt <hi>Kent,</hi> aſham'd to own the Lout,</l>
+               <l>Is glad the Fiery metcor's out.</l>
+               <l>Whoſe Famous Church the Brute ſo bang'd,</l>
+               <l>She's ve<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t at heart he was not hang'd.</l>
+               <l>And that of all the Graceleſs pack,</l>
+               <l>An act of Grace ſhould ſave his neck.</l>
+               <l>Vowing henceforth (at once the <hi>Picts</hi>)</l>
+               <l>To guard <hi>Sarre-Wall</hi> againſt <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lew Dicks:</hi>
+               </l>
+               <l>(As <hi>Goths</hi> and <hi>Vandals</hi> were to <hi>Rome</hi>)</l>
+               <l>The Scourge of <hi>Kent</hi> and Chriſtendome.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Charity</hi> bids <hi>Paſſion</hi> ceaſe,</l>
+               <l>Then, gentle Reader, go <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Peace.</l>
+            </lg>
+            <epigraph>
+               <q>
+                  <l>Dignum laude virum Muſa vetat Mori</l>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <p>Vivit poſt Funera Virtus.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Peter Lillicrap,</hi> for <hi>H. Brome</hi> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſign of the Gun in <hi>Ivy-lane,</hi> 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
